@@ -5,11 +5,11 @@ Building AI final project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI BUILDING
 
 Final project for the Building AI course
 
-## Summary
+Summary
 
 As a sports biomechanics student, I initially approached the AI course with curiosity and a touch of apprehension. The intersection of artificial intelligence and my field of study wasn't immediately apparent to me. However, as we delved into the fundamental concepts and basic algorithms of AI, I found myself increasingly captivated by the potential applications and the broader implications for sports science.
 The course provided a comprehensive introduction to key AI concepts, such as machine learning, neural networks, and deep learning. I was particularly intrigued by how these could be applied to analyze athletic performance data. For instance, the potential to use machine learning algorithms to predict injury risks based on an athlete's biomechanical data is both exciting and promising for injury prevention strategies.
@@ -22,7 +22,7 @@ Moving forward, I'm eager to explore how I can incorporate AI techniques into my
 In conclusion, this AI course has been an eye-opening journey, equipping me with knowledge that I believe will be instrumental in shaping the future of sports biomechanics. It has inspired me to continue learning and to seek innovative ways to apply AI in enhancing athletic performance and injury prevention. 
 
 
-## Background
+Background
 
 My approach to tackling course assignments is all about leveraging AI and personal research to crack those tricky algorithms and coding problems. It's a game-changer for understanding complex stuff, fixing bugs in my code, and figuring out different ways to solve problems. Plus, it's super helpful when assignment instructions are about as clear as mud.
 Let's be real - these issues pop up for pretty much every coding student out there. We've all been there, scratching our heads over a piece of code that just won't cooperate.
@@ -32,7 +32,7 @@ At the end of the day, I'm not just ticking boxes on assignments. I'm picking up
 
 
 
-## How is it used?
+How is it used?
 
 How is it used?
 This approach combines AI assistance with personal research to solve algorithmic and programming problems in coursework. Here's the process:
@@ -67,13 +67,13 @@ def bubble_sort(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j]
     return arr
 
-# Example usage
+Example usage
 unsorted_list = [64, 34, 25, 12, 22, 11, 90]
 sorted_list = bubble_sort(unsorted_list)
 print("Sorted array:", sorted_list)
 
 
-## Data sources and AI methods
+Data sources and AI methods
 Data sources and AI methods
 In this project, I utilize a combination of self-collected data and publicly available datasets. My primary sources include:
 
@@ -105,7 +105,7 @@ I use these AI methods to enhance our learning process, not to replace it. The A
 It's important to note that while we use AI for assistance, the final understanding and implementation come from our own efforts. This approach ensures that I'm actively learning and developing our problem-solving skills, rather than simply copying solutions.
 By combining these data sources and AI methods, I create a rich, interactive learning environment that goes beyond traditional textbook-based education, preparing us for real-world programming challenges.
 
-## Challenges
+Challenges
 
 Limitations and Ethical Considerations
 While our AI-assisted learning approach has been beneficial, it's important to acknowledge what our project does not solve and the limitations we've encountered:
@@ -142,10 +142,10 @@ Maintain transparency about the use of AI in completing assignments
 
 By acknowledging these limitations and ethical considerations, we can work towards a more responsible and effective integration of AI in programming education.
 
-## What next?
+What next?
 
 My AI-assisted learning project could evolve into a more comprehensive study tool. I envision developing a mobile app that uses AI to help with a variety of STEM subjects, not just programming. This app could scan homework problems, offer step-by-step solutions, and create personalized study plans based on my progress. To make this happen, I'd need to improve my skills in app development, UI/UX design, and machine learning. I'd also benefit from mentorship by experienced developers and maybe some guidance on educational technology regulations. The goal is to create a tool that adapts to my learning style, making it easier to tackle complex concepts and assignments. While it's ambitious, this growth could significantly enhance my learning experience and potentially help other students too.
 
-## Acknowledgments
+Acknowledgments
 
 My project draws inspiration from various sources, including online coding bootcamps, AI-powered coding assistants like GitHub Copilot, and educational platforms such as Coursera and edX. These, combined with my personal experiences tackling challenging programming assignments, have shaped my approach. Currently, I'm not using any code, images, or data from external sources without permission. If I decide to incorporate external materials in the future, I'll always seek permission, clearly credit the original creators, and adhere to the terms of their open source or Creative Commons licenses. My goal is to maintain transparency and respect intellectual property rights throughout the development of this project.
